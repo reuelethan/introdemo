@@ -1,9 +1,3 @@
-h1 {
+* {
     background-color: red;
-    color: seagreen;
-    width: 50%;
-    margin: 0 auto;
-    text-align: center;
-    height: 100px;
-    padding-top: 150px;
 }
