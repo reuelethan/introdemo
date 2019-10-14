@@ -1,28 +1,8 @@
 h1 {
-    background-color: salmon;
+    background-color: red;
     color: seagreen;
     width: 50%;
     margin: 0 auto;
     text-align: center;
     height: 100px;
-    padding-top: 100px;
-    
-}
-@keyframes float{
-    0%{
-      background-color: black;
-    }
-    50.777%{
-        background-image: url(https://www.udemy.com/staticx/udemy/images/v6/logo-coral-light.svg);
-        transform: scalex(-1)
-      
-    }
-    100%{
-    
-    }
-    
-  }
-  
-  .bounce{
-      animation: float 1s forwards;
-  }
+    padding-top: 150px;
